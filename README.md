@@ -1,7 +1,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <img align='right' src='https://media2.giphy.com/media/PRlZvs1KXhtkc/giphy.gif?cid=ecf05e47t2akjvlyl51q6pwmiogxty981s5tsl7yxeqw4951&ep=v1_gifs_search&rid=giphy.gif&ct=g 'hight="300" width="400">
-
-I am a 3rd Year undergraduate from <a href="https://www.swu.ac.th/"> <b>Srinakharinwirot University</b>, Bangkok</a>. <br>
+My name is Atikan Moopayak you can call me Pupa
+I'm Studying in the 3rd year of faculty of Science with computer science at <a href="https://www.swu.ac.th/"> <b>Srinakharinwirot University</b>, Bangkok</a>. <br>
 
 ###  About Me
 -  **Goal :** intern in software tester
