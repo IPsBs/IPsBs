@@ -5,8 +5,6 @@ I am a 3rd Year undergraduate from <a href="https://www.swu.ac.th/"> <b>Srinakha
 
 ###  About Me
 -  **Goal :** intern in software tester
--  **Learning :** I’m currently learning Robot Framework with puppeteer libraries
--  **Hobbies :** Playing video games
 -  **Fun fact :** When you stand up you are not sit.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
