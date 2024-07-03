@@ -14,11 +14,12 @@ I'm Studying in the 3rd year of faculty of Science with computer science at <a h
 
 ![VisitorCount](https://profile-counter.glitch.me/{IPsBs}/count.svg)
 
-###  Profile stats
+### Profile stats
 
-<img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IPsBS&theme=dracula&show_icons=true&layout=compact&langs_count=6" />
-  
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=IPsBs&theme=dracula" />
+<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IPsBS&theme=dracula&show_icons=true&layout=compact&langs_count=6" />
+
+<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=IPsBs&theme=dracula" />
+
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
