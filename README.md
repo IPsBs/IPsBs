@@ -45,12 +45,3 @@
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-## Connect with Me
-<a target="_blank" href="https://www.linkedin.com/in/atikan-moopayak-aa63202aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a target="_blank" href="https://www.instagram.com/ipsbs_ati/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-
-<p align="center"><br>
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
