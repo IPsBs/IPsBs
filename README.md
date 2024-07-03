@@ -20,24 +20,12 @@
   <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/linkedin.png?raw=true" alt="Linkedin" witdh="44" height="44" hspace="10">
 </a>
 
-<p align="center">
-  </br>
-  
-  <a href="https://git.io/streak-stats">
-    <img src=https://streak-stats.demolab.com/?user=IPsBs&&theme=tokyonight&&hide_border=true&card_width=495>
-  </a>
-   
-  </br>
-  </br>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IPsBs&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css>
-  
-  </br>
-  </br>
+<p align="left">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IPsBs&hide_border=true&show_icons=true&theme=tokyonight&card_width=495 />
+     <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IPsBs&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css>
   </a>
     
 </p>
