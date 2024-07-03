@@ -10,15 +10,27 @@ I'm Studying in the 3rd year of faculty of Science with computer science at <a h
 -  **Fun fact :** When you stand up you are not sit.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-###  Visitors count
+<p align="center">
+  </br>
+  
+  <a href="https://git.io/streak-stats">
+    <img src=https://streak-stats.demolab.com/?user=IPsBs&&theme=tokyonight&&hide_border=true&card_width=495>
+  </a>
+   
+  </br>
+  </br>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IPsBs&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css>
+  
+  </br>
+  </br>
 
-![VisitorCount](https://profile-counter.glitch.me/{IPsBs}/count.svg)
-
-### Profile stats
-
-<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IPsBS&theme=dracula&show_icons=true&layout=compact&langs_count=6" />
-
-<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=IPsBs&theme=dracula" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IPsBs&hide_border=true&show_icons=true&theme=tokyonight&card_width=495 />
+  </a>
+    
+</p>
 
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
