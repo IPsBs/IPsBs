@@ -7,7 +7,7 @@
 <h1> Hi there! wave  to my GITHUB! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <img align='right' src='https://media2.giphy.com/media/PRlZvs1KXhtkc/giphy.gif?cid=ecf05e47t2akjvlyl51q6pwmiogxty981s5tsl7yxeqw4951&ep=v1_gifs_search&rid=giphy.gif&ct=g 'hight="300" width="400">
 
-#### Hello there! I am IPsBs, A dedicated third-year computer science student at <a href="https://www.swu.ac.th/"> <b>Srinakharinwirot University</b>, Bangkok</a>. <br>
+#### Hello there! I am IPsBs, A dedicated senior computer science student at <a href="https://www.swu.ac.th/"> <b>Srinakharinwirot University</b>, Bangkok</a>. <br>
 
 ###  About Me
 - My real name is Atikan my friend like to call me PaH
