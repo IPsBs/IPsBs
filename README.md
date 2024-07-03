@@ -11,7 +11,7 @@
 
 ###  About Me
 - My real name is Atikan my friend like to call me PaH
-- I'm a 3rd-year Computer Science student at Srinakharinwirot University
+- I'm Senior Computer Science student at Srinakharinwirot University
 ### Contact with me
 <a href="https://www.instagram.com/ipsbs_ati/" target="_blank">
   <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/instagram.png?raw=true" alt="Instagram" witdh="44" height="44" hspace="10">
