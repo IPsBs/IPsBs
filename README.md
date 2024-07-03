@@ -26,7 +26,7 @@
 <p align="left">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IPsBs&hide_border=true&show_icons=true&theme=tokyonight&card_width=400"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IPsBs&hide_border=true&show_icons=true&theme=tokyonight&card_width=300"/>
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
