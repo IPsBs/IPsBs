@@ -10,7 +10,7 @@
 #### Hello there! I am IPsBs, A dedicated senior computer science student at <a href="https://www.swu.ac.th/"> <b>Srinakharinwirot University</b>, Bangkok</a>. <br>
 
 ###  About Me
-- My real name is Atikan my friend like to call me PaH
+- My real name is Atikan Moopayak my friend like to call me PaH
 - I'm Senior Computer Science student at Srinakharinwirot University
 ### Contact with me
 <a href="https://www.instagram.com/ipsbs_ati/" target="_blank">
